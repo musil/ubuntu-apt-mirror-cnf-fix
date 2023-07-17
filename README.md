@@ -2,6 +2,9 @@
 
 script will downlaod missing "cnf" folders to your ubuntu local repository.
 
+copy apt-mirror file to /usr/bin/ and replace original file which is not maintained for several years :(
+
+
 ## Usual client error 
 ```bash
 Fetched 492 kB in 1s (581 kB/s)
